@@ -2,9 +2,9 @@
 This is a TxDb package created for Coffea arabica (coffee).  
 
 # Installation
-
+```{r}
 remotes::install_github("pipaber/TxDb.Carabica.NCBI")
-
+```
 Usage
 
 ```{r}
