@@ -1,0 +1,16 @@
+Package: TxDb.Carabica.NCBI
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from NCBI by exposing these as TxDb objects
+Version: 0.1
+Author: Piero Palacios <p.palacios.bernuy@gmail.com> [cre]
+Maintainer: Piero Palacios <p.palacios.bernuy@gmail.com>
+Depends: GenomicFeatures (>= 1.52.0)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Coffea arabica
+species: Coffea arabica
+provider: NCBI
+provider_version: NCBI
+release_date: 2023-05-22 20:17:13 -0500 (Mon, 22 May 2023)
+resource_url: https://www.ncbi.nlm.nih.gov/datasets/taxonomy/13443/
+biocViews: AnnotationData, Genetics, TxDb, Coffea_arabica
