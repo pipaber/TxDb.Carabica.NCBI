@@ -1,5 +1,5 @@
 # TxDb.Carabica.NCBI
-This is a TxDb package created for Coffea arabica (coffee).  
+This is a TxDb package created for Coffea arabica (coffee). The genome used for this package is Cara_1.0 retrieved from [NCBI](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/13443/) 
 
 # Installation
 ```{r}
